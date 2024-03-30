@@ -20,3 +20,6 @@ npx eslint --init
 - Añadir animaciones con AutoAnimate
 - Pasar a Reducer
 - Sincronizar con el backend.
+
+### Preview
+![Preview](public/screenshot.png)
